@@ -60,6 +60,7 @@ Partial Class Form1
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(107, 20)
         Me.TextBox2.TabIndex = 3
+        Me.TextBox2.Text = "100"
         '
         'Button1
         '
@@ -92,7 +93,7 @@ Partial Class Form1
         Me.RichTextBox1.Name = "RichTextBox1"
         Me.RichTextBox1.Size = New System.Drawing.Size(222, 62)
         Me.RichTextBox1.TabIndex = 6
-        Me.RichTextBox1.Text = ""
+        Me.RichTextBox1.Text = "Your spam here"
         '
         'Form1
         '

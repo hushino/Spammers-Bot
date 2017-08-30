@@ -91,7 +91,7 @@ Partial Class Form1
         Me.NumericUpDown1.Location = New System.Drawing.Point(82, 80)
         Me.NumericUpDown1.Maximum = New Decimal(New Integer() {9999999, 0, 0, 0})
         Me.NumericUpDown1.Name = "NumericUpDown1"
-        Me.NumericUpDown1.Size = New System.Drawing.Size(120, 20)
+        Me.NumericUpDown1.Size = New System.Drawing.Size(125, 20)
         Me.NumericUpDown1.TabIndex = 7
         '
         'Form1

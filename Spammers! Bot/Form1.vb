@@ -16,7 +16,7 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
-        Timer2.Interval = TextBox2.Text
+        Timer2.Interval = NumericUpDown1.Text
         Timer1.Start()
 
     End Sub
